@@ -295,6 +295,16 @@ The project does not claim to predict customer churn because the dataset does no
 - GitHub
 
 ---
+### Built by Sneha Gubrele
+
+---
+
+📧 Email: snehagubrele55@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/snehagubrele55/
+
+⭐ If you found this project interesting, feel free to star the repository.
+
 
 # Project Structure
 
@@ -315,13 +325,5 @@ ChurnLens-Customer-Retention-Analytics/
 ├── README.md
 └── dataset/
     └── customer_shopping_clean.csv
+text```
 
-### Built by Sneha Gubrele
-
----
-
-📧 Email: snehagubrele55@gmail.com
-
-🔗 LinkedIn: https://www.linkedin.com/in/snehagubrele55/
-
-⭐ If you found this project interesting, feel free to star the repository.
